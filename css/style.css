@@ -1,0 +1,18 @@
+h1{
+    color: blueviolet;
+}
+table{
+}
+
+td{
+    cursor: pointer;
+    text-align: center;
+    background-color: lightblue;
+    border-color: darkblue;
+    border-width: 2px;
+    width: 30px;
+    max-width: 30px;
+    height: 30px;
+    max-height: 30px;
+
+}
